@@ -7,7 +7,8 @@ protocol for cultivating currents of abundance rooted in ancient wisdom traditio
 ---
 
 ## **Overview**
-Beyond the Two-Party System
+Beyond the Two-Party System:
+
 The TEK8 Party System is a post-partisan framework for participatory governance, civic imagination, and regenerative worldbuilding. Rooted in the TEK8 elemental protocol, it replaces binary political ideologies with an 8-petal structure that mirrors the complexity of real human needs, community knowledge, and planetary systems.
 The TEK8 Protocol is an offering to the development community: a guiding framework for ethical cryptocurrency certification and intelligent financial systems inspired by ancient wisdom traditions and ecological stewardship. This protocol is currently untested in real-world use cases but serves as the foundational guiding principle for **Pixie Town** and the **$PXAI memecoin**.
 
