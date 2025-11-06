@@ -46,7 +46,7 @@ TEK8 serves as the guiding protocol for:
 - **$PXAI Memecoin** [probably cancelled]: A playful yet purposeful cryptocurrency that aligns with TEK8 principles to empower abundance and equitable growth.
 This protocol is currently being utilized in several projects as mentioned in the TEK8 Party System .pdf 
 
-This protocol is currently untested in real-world use cases but serves as the foundational guiding principle for **Pixie Town** and the **$PXAI memecoin**.
+The primary testing ground presently for this protocol is via the free online learning game and LMS, Quilltangle: Pixie Parable (powered by the Chicken Jockey Scribe Racer engine) at https://quillverse.org/
 ---
 
 ## **License**
